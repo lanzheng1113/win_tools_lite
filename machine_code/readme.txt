@@ -1,0 +1,1 @@
+get machine code via MAC,HDD SN,CPU ID and BIOS SN.
